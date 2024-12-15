@@ -1,0 +1,30 @@
+body{
+    background-color: blanchedalmond;
+    
+    
+}
+h1{
+    background-color:rgb(47, 167, 139);
+}
+h2{
+    background-color: aqua;
+}
+div{
+    width: 900px;
+    height:100px;
+    margin: 0px;
+    padding-left:0px;
+    background-image: radial-gradient(rgb(163, 220, 19), rgba(166, 0, 255, 0.603) );
+
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: lighter;
+    font-style: italic;
+    font-variant: small-caps; 
+    
+
+
+}
